@@ -1,5 +1,5 @@
-# Sobel-Fieldman
- Sobel-Fieldman convolution filter for edge-detection shader. Useful for outlining cel shading.
+# Sobel-Feldman shader
+ Sobel-Feldman convolution filter for edge-detection shader. Useful for outlining cel shading.
  
  TODO:
  Add filter to transform to greyscale
